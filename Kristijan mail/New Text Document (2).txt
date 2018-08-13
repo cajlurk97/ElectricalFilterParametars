@@ -1,0 +1,11 @@
+http://www.st.com/en/automotive-analog-and-power/automotive-prot= ection-and-filtering.html?querycriteria=3DproductId=3DSC2185= 
+https://www.onsemi.com/site/pdf/PET_Nov_04_Zener_D= iode_Paper.pdf
+https://www.schaffner.com/products/automotive/
+https://www.schaffner.com/products/automotive/hv-dc-fil= ter/
+https://training.ti.com/how-design-i= nput-emi-filters-automotive-dcdc-converter
+https://training.ti.com/optimizing-dcdc-c= onverters-emi-automotive-systems
+https://training.ti.com/designi= ng-low-emi-dcdc-converters-automotive-systems-part-1
+http://www.rle.mit.edu/per/ConferencePapers/cpWPET02= _achow.pdf
+https://www.murata.com/products/emc/emifil
+https://www.onsemi.com/pub/Collateral/AND8169-D.PDF
+https://www.eetimes.com/document.asp?doc_id=3D1272969
