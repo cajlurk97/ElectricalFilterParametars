@@ -1,13 +1,12 @@
-R=0.5;
-C=3;
-L=3;
+R=1.5;
+C=0.5;
+L=0.5;
 %serijski r,l,c, niskopropusni
-H = tf([1,0],[R*C,1,R*L]);
+H = tf([0,1/R*C,0],[1,1/R*C,1/L*C]);
 
 %cstprefs default options, uncoment to change
 identpref
 opts = bodeoptions('cstprefs');
-
 opts.YLabel.FontSize = 15;
 opts.XLabel.FontSize = 15;
 opts.Title.FontSize = 20;
@@ -38,4 +37,3 @@ b=[1,1,1];
 w=[0.01,10];
 freqs(b,a,w);
 
-identpref
