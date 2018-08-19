@@ -1,8 +1,9 @@
 R=1.5;
-C=0.5;
-L=0.5;
+C=0.9;
+L=4;
 %serijski r,l,c, niskopropusni
-H = tf([0,1/R*C,0],[1,1/R*C,1/L*C]);
+H = tf([1/LC],[1,1/R*L,1/L*C]);
+bode
 
 %cstprefs default options, uncoment to change
 identpref
